@@ -1,4 +1,4 @@
-### [ Customer Shopping Trends Dashboard Project](https://www.kaggle.com/code/benitoitelewuver/customer-shopping-trends-datasets)
+### [Customer Shopping Trends Dashboard Project](https://www.kaggle.com/code/benitoitelewuver/customer-shopping-trends-datasets)
 
 ## Project Overview
 
@@ -54,6 +54,11 @@ Requires close collaboration with:
 1. IT department for data access and infrastructure
 2. Marketing team for insight implementation
 3. Business stakeholders for requirement refinement
+
+## [Exploratory Data Analysis Perform on Kaggle](https://www.kaggle.com/code/benitoitelewuver/customer-shopping-trends-datasets)
+1. Data Extraction
+2. Data Cleaning and Transformation
+3. Exploratory Data Analysis
 
 ## Insights
 Key Insights Derived from the Dashboard:
