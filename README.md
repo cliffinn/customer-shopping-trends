@@ -44,10 +44,6 @@ As the data analyst for this project:
 4. Documentation of ETL processes and analysis methodologies
 5. Presentation of findings to stakeholders
 
-## Timeline
-[6 Weeks ]
-
-
 ## Collaboration
 Requires close collaboration with:
 
